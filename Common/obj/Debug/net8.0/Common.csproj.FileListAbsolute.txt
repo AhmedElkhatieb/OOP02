@@ -1,0 +1,11 @@
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\bin\Debug\net8.0\Common.deps.json
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\bin\Debug\net8.0\Common.dll
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\bin\Debug\net8.0\Common.pdb
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\Common.dll
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\Common.pdb
+C:\Web\Backend\C#\02 OOP\Session 2\OOP_Session2\Common\obj\Debug\net8.0\ref\Common.dll
